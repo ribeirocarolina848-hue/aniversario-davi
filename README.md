@@ -33,7 +33,7 @@
   <div class="sub">VEM COMEMORAR COMIGO!</div>
 
   <div class="info">
-    <p>📅 <b>Dia 25 de Novembro - 16h</b></p>
+    <p>📅 <b>Dia 28 de fevereiro - 14h</b></p>
     <p>📍 Salão Kids Fest - Rua da Alegria, 123</p>
     <p>🎈 Traga muita animação!</p>
   </div>
