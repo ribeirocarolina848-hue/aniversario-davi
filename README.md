@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Aniversário do Davi - Homem Aranha!</title>
+<title>Aniversário Do Davi - Homem Aranha!</title>
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
   body { margin:0; font-family:'Bangers', cursive; background:#0f172a; min-height:100vh; display:flex; justify-content:center; align-items:center; overflow:hidden; }
@@ -55,8 +55,8 @@
     <div style="font-size:40px; margin:10px 0;">🕸️💥🕸️</div>
 
     <div class="info">
-      <p>🕷️ <span>Idade:</span> 6 Aninhos</p>
-      <p>📅 <span>Quando:</span> 85 de Novembro - 13h</p>
+      <p>🕷️ <span>Idade:</span> 1 Aninhos</p>
+      <p>📅 <span>Quando:</span> 28 de Fvereiro - 13h</p>
       <p>📍 <span>Onde:</span> Salão Kids Fest</p>
       <p>🕸️ <span>Traje:</span> Venha de Homem-Aranha!</p>
     </div>
